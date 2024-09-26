@@ -1,5 +1,6 @@
 #ㅏ마마마마마마ㅑㅈㅇ챚랮댜차ㅣㅡㄹ
 #,두번쨰 젼형 ㅇ빈디ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅋ
+#브렌치1에서 수저어저저저저저저정
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l

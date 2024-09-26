@@ -1,4 +1,4 @@
-// C program for Merge Sort
+// C program for Merge Sort + 수저저저저정
 #include <stdio.h>
 #include <stdlib.h>
 
